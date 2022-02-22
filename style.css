@@ -506,3 +506,35 @@ flex-basis: 47%;
         font-size: 10px;
     }
 }
+@media (max-width: 375px){
+    .left-sidebar{
+        display: none;
+    }
+    .nav-left{
+        width: 30px;
+    }
+    .nav-left ul{
+        display: none;
+    }
+    .logo {
+        width: 113px;
+    }
+    .search-box {
+        width: 120px;
+    }
+    .search-box input{
+        padding: 8px;
+    }
+    .right-sidebar{
+        display: none;
+    }
+    .main-content{
+        width: 310px;
+    }
+    .post-input-container{
+        padding-left: 0%;
+    }
+    .add-post-links a{
+        font-size: 10px;
+    }
+}
