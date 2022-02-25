@@ -564,4 +564,7 @@ flex-basis: 47%;
     .activity-icons{
         display: flex;
     }
+    .user-profile img {
+        width: 40px;
+    }
 }
