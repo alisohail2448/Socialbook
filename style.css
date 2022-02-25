@@ -540,4 +540,28 @@ flex-basis: 47%;
     .add-post-links a {
         font-size: 8px;
     }
+    .story p{
+        font-size: 10px;
+    }
+    .story.story5 img{
+        width: 30px;
+    }
+    .story img{
+        width: 35px;
+    }
+    .user-profile p{
+        font-size: 14px;
+    }
+    .user-profile small{
+        font-size: 10px;
+    }
+    .post-text{
+        font-size: 13px;
+    }
+    .activity-icons div img {
+        width: 14px;
+    }
+    .activity-icons{
+        display: flex;
+    }
 }
