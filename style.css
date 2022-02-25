@@ -534,7 +534,10 @@ flex-basis: 47%;
     .post-input-container{
         padding-left: 0%;
     }
-    .add-post-links a{
-        font-size: 10px;
+    .add-post-links a img{
+        width: 15px;
+    }
+    .add-post-links a {
+        font-size: 8px;
     }
 }
